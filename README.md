@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Guilherme! (@guilhermeUpToTask)
 
-**Fullstack Developer | AI Agentics & ML Pipeline Enthusiast | Code Obsessed Problem Solver**
+**Fullstack Developer | AI Agentics & ML Pipeline Enthusiast**
 
 ---
 
