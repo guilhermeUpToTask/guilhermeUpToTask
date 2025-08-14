@@ -23,7 +23,7 @@ React | FastAPI | Hugging Face Transformers SDK
 Docker | Traefik | PostgreSQL | | ChromaDB | Redis | MinIO | | Nginx |Celery | Alembic | CI/CD 
 
 **AI & ML:**  
-YOLO | CLIP | LLMs
+YOLO | CLIP | LLMs | Embeddings | MCPS | Agentics workflow
 
 ---
 
