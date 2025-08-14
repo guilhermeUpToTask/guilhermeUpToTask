@@ -49,7 +49,7 @@ YOLO | CLIP | LLMs
 
 - [Twitter](https://x.com/Guilher25989037)  
 - [LinkedIn](https://www.linkedin.com/in/guilherme-augusto-matos-a7aaa9279/)
-- [Portifolio](https://www.linkedin.com/feed/](https://www.linkedin.com/in/guilherme-augusto-matos-a7aaa9279/](https://portifolio-guilherme-augusto.vercel.app/)
+- [Portifolio](https://www.linkedin.com/in/guilherme-augusto-matos-a7aaa9279/](https://portifolio-guilherme-augusto.vercel.app/)
 
 ---
 
