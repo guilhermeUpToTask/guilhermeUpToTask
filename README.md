@@ -47,7 +47,7 @@ YOLO | CLIP | LLMs
 
 ## 🌐 Connect with Me
 
-- [X]([https://x.com/Guilher25989037])  
+- [X](https://x.com/Guilher25989037)  
 - [LinkedIn]([https://www.linkedin.com/in/guilherme-augusto-matos-a7aaa9279/])
 - [Portifo]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/guilherme-augusto-matos-a7aaa9279/](https://portifolio-guilherme-augusto.vercel.app/)])
 
