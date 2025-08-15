@@ -37,14 +37,6 @@ YOLO | CLIP | LLMs | Embeddings | MCPS | Agentics workflow
 
 ---
 
-## 📜 Achievements & Fun Facts
-
-- 🏅 Proficient in all the parafernalia needed for fullstack delivery, from frontend to ML backend to DevOps.
-- 🤓 Programming is my obsession. When things break, I don’t leave the keyboard until I fix it.
-- 🔥 Slowly falling out of love with dynamic typing. Static types FTW!
-
----
-
 ## 🌐 Connect with Me
 
 - [Twitter](https://x.com/Guilher25989037)  
